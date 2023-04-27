@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GuilhermeBertola1 and I'm a programming beginner;
+- 👋 Hi, I’m Guilherme Bertola and I'm a programming beginner;
 - 👀 I’m interested in JavaScript;
 - 🌱 I’m currently learning programming logic 1;
 - 🧠 I’ll learn more about JavaScript, node.js, Python and Python Web;
